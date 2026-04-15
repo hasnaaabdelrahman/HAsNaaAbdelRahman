@@ -9,12 +9,18 @@
 
  <img src = "https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" alt = "Coding" align = "right" width = "400px">
 
-
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/hasnaaabdelrahman/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnaa abdelrahman" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hasnaa"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasnaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hasnaa-"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasnaa-" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/hasnaaabdelrahman/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+  </a>
+  <a href="https://codeforces.com/profile/hasnaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="30"/>
+  </a>
+  <a href="https://www.leetcode.com/hasnaa-" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
